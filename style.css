@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    text-align:center;
+}
+
+
+h1{
+    color:blueviolet;
+    text-align:center;
+    font-size:1em;
+}
+#id{
+color:aqua;
+border:3px inset purple;
+background-color:black;
+border-radius:1em;
+font-style:oblique;
+}
+#id1{
+    color:aquamarine;
+    border:3px outset red;
+    background-color:black;
+    border-radius:1em;
+    font-style:oblique;
+}
+#id2{
+    color:palevioletred;
+    background-color:black;
+    border:3px solid purple;
+    border-radius:1em;
+    font-style:oblique;
+}
